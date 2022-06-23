@@ -56,7 +56,7 @@
     "@babel/traverse": "^7.11.0",
     "cheerio": "^1.0.0-rc.3",
     "glob": "^7.1.6",
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "js-yaml": "^3.14.0",
     "packageurl-js": "^0.0.1",
     "parse-packagejson-name": "^1.0.1",
